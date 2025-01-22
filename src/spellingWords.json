@@ -1,0 +1,664 @@
+{
+  "spellingQuestions": [
+    {
+      "spellingWord": "contribute",
+      "commonMispellings": ["contrebute", "contrubute", "contribut"]
+    },
+    {
+      "spellingWord": "symphony",
+      "commonMispellings": ["simphony", "symphany", "symphuny"]
+    },
+    {
+      "spellingWord": "leeward",
+      "commonMispellings": ["leward", "leeword", "leaward"]
+    },
+    {
+      "spellingWord": "hocus-pocus",
+      "commonMispellings": ["hokus-pokus", "hocuspocus", "hocus-pokus"]
+    },
+    {
+      "spellingWord": "hurly-burly",
+      "commonMispellings": ["hurlyburly", "hurley-burley", "hurly-birly"]
+    },
+    {
+      "spellingWord": "karma",
+      "commonMispellings": ["carma", "kerma", "karme"]
+    },
+    {
+      "spellingWord": "altar",
+      "commonMispellings": ["alter", "altur", "altir"]
+    },
+    {
+      "spellingWord": "monotone",
+      "commonMispellings": ["monnotone", "monotoan", "monatone"]
+    },
+    {
+      "spellingWord": "Cyclops",
+      "commonMispellings": ["cyclops", "syclops", "ciclops"]
+    },
+    {
+      "spellingWord": "narwhal",
+      "commonMispellings": ["narwhale", "narwal", "narwall"]
+    },
+    {
+      "spellingWord": "stylistic",
+      "commonMispellings": ["stilistic", "stylystic", "stilystic"]
+    },
+    {
+      "spellingWord": "parroting",
+      "commonMispellings": ["paroting", "parotting", "paretting"]
+    },
+    {
+      "spellingWord": "translucent",
+      "commonMispellings": ["transluscent", "translucant", "translusent"]
+    },
+    {
+      "spellingWord": "flailed",
+      "commonMispellings": ["flayled", "flaled", "flaield"]
+    },
+    {
+      "spellingWord": "techie",
+      "commonMispellings": ["techy", "techiee", "tecky"]
+    },
+    {
+      "spellingWord": "glabrous",
+      "commonMispellings": ["glabrus", "glaborous", "glaborus"]
+    },
+    {
+      "spellingWord": "gondolas",
+      "commonMispellings": ["gondolas", "gondelas", "gondoles"]
+    },
+    {
+      "spellingWord": "melancholy",
+      "commonMispellings": ["melancoly", "mellancholy", "melencholy"]
+    },
+    {
+      "spellingWord": "errands",
+      "commonMispellings": ["erands", "ehrands", "arands"]
+    },
+    {
+      "spellingWord": "gruesome",
+      "commonMispellings": ["grewsome", "grusom", "groosome"]
+    },
+    {
+      "spellingWord": "pentameter",
+      "commonMispellings": ["pentametre", "pentamiter", "pentameter"]
+    },
+    {
+      "spellingWord": "merfolk",
+      "commonMispellings": ["merefolk", "merfolc", "merfoke"]
+    },
+    {
+      "spellingWord": "spree",
+      "commonMispellings": ["sprea", "spre", "sprie"]
+    },
+    {
+      "spellingWord": "gargoyles",
+      "commonMispellings": ["gargoyls", "gargoiles", "gargyles"]
+    },
+    {
+      "spellingWord": "steeped",
+      "commonMispellings": ["steept", "steaped", "steiped"]
+    },
+    {
+      "spellingWord": "tsunami",
+      "commonMispellings": ["tsunamy", "tsunammi", "zunami"]
+    },
+    {
+      "spellingWord": "chlorofluorocarbon",
+      "commonMispellings": ["chloroflurocarbon", "chloroflorocarbon", "clorofluorocarbon"]
+    },
+    {
+      "spellingWord": "impeccable",
+      "commonMispellings": ["impecable", "impeckable", "impecible"]
+    },
+    {
+      "spellingWord": "pavilions",
+      "commonMispellings": ["pavillions", "pavilians", "pavellions"]
+    },
+    {
+      "spellingWord": "smattering",
+      "commonMispellings": ["smatering", "smatterring", "smattaring"]
+    },
+    {
+      "spellingWord": "anomaly",
+      "commonMispellings": ["annomaly", "anomoly", "anomily"]
+    },
+    {
+      "spellingWord": "inimitable",
+      "commonMispellings": ["inimatable", "inimmitable", "innimitable"]
+    },
+    {
+      "spellingWord": "skeptical",
+      "commonMispellings": ["sceptical", "skepticle", "skeptickal"]
+    },
+    {
+      "spellingWord": "bibliophile",
+      "commonMispellings": ["bibliophyle", "bibliopile", "bibliophyle"]
+    },
+    {
+      "spellingWord": "banishment",
+      "commonMispellings": ["bannishment", "banishmet", "banishement"]
+    },
+    {
+      "spellingWord": "euphoria",
+      "commonMispellings": ["euforia", "eupharia", "euphorya"]
+    },
+    {
+      "spellingWord": "graphite",
+      "commonMispellings": ["graphit", "graphyte", "grafite"]
+    },
+    {
+      "spellingWord": "magenta",
+      "commonMispellings": ["maginta", "majenta", "megenta"]
+    },
+    {
+      "spellingWord": "conveyance",
+      "commonMispellings": ["conveyence", "conveiance", "conveyence"]
+    },
+    {
+      "spellingWord": "Euphrates",
+      "commonMispellings": ["euphrates", "euphraties", "euphretes"]
+    },
+    {
+      "spellingWord": "palette",
+      "commonMispellings": ["pallit", "pallette", "pallet"]
+    },
+    {
+      "spellingWord": "halo",
+      "commonMispellings": ["halow", "hellow", "haloe"]
+    },
+    {
+      "spellingWord": "artificial",
+      "commonMispellings": ["artifical", "artifitial", "artaficial"]
+    },
+    {
+      "spellingWord": "ogres",
+      "commonMispellings": ["ogers", "ogars", "ogors"]
+    },
+    {
+      "spellingWord": "feisty",
+      "commonMispellings": ["fiesty", "feesty", "feistey"]
+    },
+    {
+      "spellingWord": "cohort",
+      "commonMispellings": ["cohart", "cohert", "cohhort"]
+    },
+    {
+      "spellingWord": "villainous",
+      "commonMispellings": ["villanous", "villaineous", "villinous"]
+    },
+    {
+      "spellingWord": "goatee",
+      "commonMispellings": ["goaty", "goattee", "goatey"]
+    },
+    {
+      "spellingWord": "kindling",
+      "commonMispellings": ["kindeling", "kindelig", "kindleing"]
+    },
+    {
+      "spellingWord": "ruffian",
+      "commonMispellings": ["rufian", "ruffain", "ruffiun"]
+    },
+    {
+      "spellingWord": "grotesque",
+      "commonMispellings": ["grotesk", "grotesc", "grotesq"]
+    },
+    {
+      "spellingWord": "aluminum",
+      "commonMispellings": ["alluminum", "aluminium", "alumnum"]
+    },
+    {
+      "spellingWord": "treachery",
+      "commonMispellings": ["treachary", "treechery", "treachry"]
+    },
+    {
+      "spellingWord": "mañana",
+      "commonMispellings": ["manana", "mannana", "manyana"]
+    },
+    {
+      "spellingWord": "buccaneer",
+      "commonMispellings": ["bucaneer", "bucanneer", "buckaneer"]
+    },
+    {
+      "spellingWord": "threshold",
+      "commonMispellings": ["threshhold", "threshhold", "threshehold"]
+    },
+    {
+      "spellingWord": "residential",
+      "commonMispellings": ["residencial", "ressidential", "residensial"]
+    },
+    {
+      "spellingWord": "squeal",
+      "commonMispellings": ["squeel", "squil", "squele"]
+    },
+    {
+      "spellingWord": "lubbers",
+      "commonMispellings": ["lubers", "lubors", "lubars"]
+    },
+    {
+      "spellingWord": "flamboyant",
+      "commonMispellings": ["flamboyent", "flambouyant", "flamboiant"]
+    },
+    {
+      "spellingWord": "deposition",
+      "commonMispellings": ["depositon", "depotion", "deposision"]
+    },
+    {
+      "spellingWord": "tersely",
+      "commonMispellings": ["tersly", "terseley", "tersily"]
+    },
+    {
+      "spellingWord": "louis d'or",
+      "commonMispellings": ["louisdor", "louis-dor", "louis d'ore"]
+    },
+    {
+      "spellingWord": "famine",
+      "commonMispellings": ["fammine", "famin", "famene"]
+    },
+    {
+      "spellingWord": "veterinarian",
+      "commonMispellings": ["veternarian", "veterenarian", "vetrinarian"]
+    },
+    {
+      "spellingWord": "ambiguity",
+      "commonMispellings": ["ambigueity", "ambigutiy", "ambiguality"]
+    },
+    {
+      "spellingWord": "linoleum",
+      "commonMispellings": ["linolium", "linoneum", "lynoleum"]
+    },
+    {
+      "spellingWord": "skiff",
+      "commonMispellings": ["skif", "sciff", "skift"]
+    },
+    {
+      "spellingWord": "autism",
+      "commonMispellings": ["autisim", "autizm", "austism"]
+    },
+    {
+      "spellingWord": "cache",
+      "commonMispellings": ["cashe", "cach", "cashay"]
+    },
+    {
+      "spellingWord": "pesos",
+      "commonMispellings": ["pesoes", "pezos", "pecos"]
+    },
+    {
+      "spellingWord": "foyer",
+      "commonMispellings": ["foier", "foyar", "foyyer"]
+    },
+    {
+      "spellingWord": "straightforward",
+      "commonMispellings": ["straightforword", "straighforward", "streightforward"]
+    },
+    {
+      "spellingWord": "Madagascar",
+      "commonMispellings": ["madagaskar", "madagascur", "madagascer"]
+    },
+    {
+      "spellingWord": "catechism",
+      "commonMispellings": ["catechizm", "catechysm", "catechysim"]
+    },
+    {
+      "spellingWord": "rogue",
+      "commonMispellings": ["rouge", "roug", "roague"]
+    },
+    {
+      "spellingWord": "inferno",
+      "commonMispellings": ["enferno", "infurno", "inferrno"]
+    },
+    {
+      "spellingWord": "vial",
+      "commonMispellings": ["vile", "vyal", "viall"]
+    },
+    {
+      "spellingWord": "lieutenant",
+      "commonMispellings": ["leftenant", "leutenant", "liutenant"]
+    },
+    {
+      "spellingWord": "amnesia",
+      "commonMispellings": ["amneshia", "amnezia", "amnisia"]
+    },
+    {
+      "spellingWord": "buzzard",
+      "commonMispellings": ["buzard", "buzzerd", "buzerd"]
+    },
+    {
+      "spellingWord": "foist",
+      "commonMispellings": ["foyst", "foisst", "foizt"]
+    },
+    {
+      "spellingWord": "cavalier",
+      "commonMispellings": ["cavalear", "cavalere", "cavalear"]
+    },
+    {
+      "spellingWord": "fruition",
+      "commonMispellings": ["fruision", "frution", "fruishion"]
+    },
+    {
+      "spellingWord": "eliminate",
+      "commonMispellings": ["eleminate", "elliminate", "elimanate"]
+    },
+    {
+      "spellingWord": "Samhain",
+      "commonMispellings": ["samhein", "samheim", "samhayn"]
+    },
+    {
+      "spellingWord": "bygone",
+      "commonMispellings": ["bigone", "bygon", "bygonne"]
+    },
+    {
+      "spellingWord": "writhes",
+      "commonMispellings": ["wrytes", "rithes", "wriths"]
+    },
+    {
+      "spellingWord": "crystalline",
+      "commonMispellings": ["cristaline", "crystaline", "cristalline"]
+    },
+    {
+      "spellingWord": "circumspectly",
+      "commonMispellings": ["circumspectley", "circumspectily", "cercumspectly"]
+    },
+    {
+      "spellingWord": "mourners",
+      "commonMispellings": ["morners", "moorners", "murners"]
+    },
+    {
+      "spellingWord": "Chernobyl",
+      "commonMispellings": ["chernobil", "tchernobyl", "chornobyl"]
+    },
+    {
+      "spellingWord": "committee",
+      "commonMispellings": ["commitee", "comittee", "committy"]
+    },
+    {
+      "spellingWord": "respiratory",
+      "commonMispellings": ["respitory", "respiratry", "respiritory"]
+    },
+    {
+      "spellingWord": "sentient",
+      "commonMispellings": ["sentiant", "sentiant", "sentient"]
+    },
+    {
+      "spellingWord": "algebraic",
+      "commonMispellings": ["algabraic", "algebraix", "algebriac"]
+    },
+    {
+      "spellingWord": "mirage",
+      "commonMispellings": ["mirahge", "miraj", "miradge"]
+    },
+    {
+      "spellingWord": "perpetrate",
+      "commonMispellings": ["perpetuate", "perpetrait", "perpitrate"]
+    },
+    {
+      "spellingWord": "technicalities",
+      "commonMispellings": ["technicallities", "technicallties", "technecalities"]
+    },
+    {
+      "spellingWord": "hydraulics",
+      "commonMispellings": ["hydrolics", "hidraulics", "hydroulics"]
+    },
+    {
+      "spellingWord": "newfangled",
+      "commonMispellings": ["newfangeled", "newfangaled", "newfangled"]
+    },
+    {
+      "spellingWord": "intestines",
+      "commonMispellings": ["intestins", "intentines", "intestenes"]
+    },
+    {
+      "spellingWord": "crannies",
+      "commonMispellings": ["cranies", "crannys", "cranneys"]
+    },
+    {
+      "spellingWord": "klystron",
+      "commonMispellings": ["clistron", "klystrin", "klistron"]
+    },
+    {
+      "spellingWord": "surcharge",
+      "commonMispellings": ["sercharge", "surchage", "surcharg"]
+    },
+    {
+      "spellingWord": "sanitation",
+      "commonMispellings": ["sanatation", "sanitasion", "sanitacion"]
+    },
+    {
+      "spellingWord": "incorporeal",
+      "commonMispellings": ["incorporial", "incorporal", "incorporeel"]
+    },
+    {
+      "spellingWord": "fuselage",
+      "commonMispellings": ["fusilage", "fusillage", "fuzelage"]
+    },
+    {
+      "spellingWord": "marksmanship",
+      "commonMispellings": ["markmanship", "marksmanshipp", "marksmanshep"]
+    },
+    {
+      "spellingWord": "barren",
+      "commonMispellings": ["barran", "baren", "barrun"]
+    },
+    {
+      "spellingWord": "Tlingit",
+      "commonMispellings": ["tlingit", "tlinget", "tlinkit"]
+    },
+    {
+      "spellingWord": "grosgrain",
+      "commonMispellings": ["grosgrane", "grossgrayn", "grosegrayn"]
+    },
+    {
+      "spellingWord": "column",
+      "commonMispellings": ["colum", "collumn", "colmn"]
+    },
+    {
+      "spellingWord": "lavishly",
+      "commonMispellings": ["laveshly", "lavishley", "lavisly"]
+    },
+    {
+      "spellingWord": "detainees",
+      "commonMispellings": ["detainies", "detainese", "detaineys"]
+    },
+    {
+      "spellingWord": "Byzantine",
+      "commonMispellings": ["byzantine", "bysantine", "byzentine"]
+    },
+    {
+      "spellingWord": "plaque",
+      "commonMispellings": ["plack", "plak", "placque"]
+    },
+    {
+      "spellingWord": "suffice",
+      "commonMispellings": ["sufice", "suffise", "suffyce"]
+    },
+    {
+      "spellingWord": "delinquent",
+      "commonMispellings": ["delingquent", "delinkwent", "delinquant"]
+    },
+    {
+      "spellingWord": "objet d'art",
+      "commonMispellings": ["object d'art", "objet dart", "objet-dart"]
+    },
+    {
+      "spellingWord": "giddily",
+      "commonMispellings": ["gidily", "giddly", "giddely"]
+    },
+    {
+      "spellingWord": "grudgingly",
+      "commonMispellings": ["grudginly", "grudgingley", "grudginley"]
+    },
+    {
+      "spellingWord": "seance",
+      "commonMispellings": ["seyance", "seanse", "seonce"]
+    },
+    {
+      "spellingWord": "rebuke",
+      "commonMispellings": ["rebike", "rebukke", "rebuk"]
+    },
+    {
+      "spellingWord": "tiff",
+      "commonMispellings": ["tif", "tyff", "tiffe"]
+    },
+    {
+      "spellingWord": "smoldering",
+      "commonMispellings": ["smouldering", "smoldring", "smolding"]
+    },
+    {
+      "spellingWord": "adversity",
+      "commonMispellings": ["advercity", "adversaty", "adversedy"]
+    },
+    {
+      "spellingWord": "reticule",
+      "commonMispellings": ["reticle", "reticul", "reticual"]
+    },
+    {
+      "spellingWord": "dysfunctional",
+      "commonMispellings": ["disfunctional", "disfuncional", "dysfuncional"]
+    },
+    {
+      "spellingWord": "defibrillator",
+      "commonMispellings": ["defibrilator", "defibrulator", "defibulator"]
+    },
+    {
+      "spellingWord": "creosote",
+      "commonMispellings": ["creasote", "kreosote", "creosot"]
+    },
+    {
+      "spellingWord": "miscreant",
+      "commonMispellings": ["miscreent", "miscriant", "miscreiant"]
+    },
+    {
+      "spellingWord": "acquaintance",
+      "commonMispellings": ["acquantance", "aquaintance", "acquaintence"]
+    },
+    {
+      "spellingWord": "rookery",
+      "commonMispellings": ["rookry", "rookrey", "rukery"]
+    },
+    {
+      "spellingWord": "gravelly",
+      "commonMispellings": ["gravily", "gravilly", "gravaly"]
+    },
+    {
+      "spellingWord": "Aquitaine",
+      "commonMispellings": ["aquitain", "aquataine", "aquitane"]
+    },
+    {
+      "spellingWord": "fandango",
+      "commonMispellings": ["fandanggo", "fandangoe", "fundango"]
+    },
+    {
+      "spellingWord": "vociferous",
+      "commonMispellings": ["vociforus", "vociforous", "vosiferous"]
+    },
+    {
+      "spellingWord": "keening",
+      "commonMispellings": ["keaning", "kenning", "keining"]
+    },
+    {
+      "spellingWord": "muttonchops",
+      "commonMispellings": ["mutton-chops", "mutanchops", "muttonchops"]
+    },
+    {
+      "spellingWord": "puncheon",
+      "commonMispellings": ["punction", "punchen", "punchin"]
+    },
+    {
+      "spellingWord": "Carmelite",
+      "commonMispellings": ["carmalite", "carmelyte", "carmalyte"]
+    },
+    {
+      "spellingWord": "probation",
+      "commonMispellings": ["probasion", "probaction", "probacion"]
+    },
+    {
+      "spellingWord": "charade",
+      "commonMispellings": ["cherade", "charrade", "sharade"]
+    },
+    {
+      "spellingWord": "operant",
+      "commonMispellings": ["operent", "opperant", "operrant"]
+    },
+    {
+      "spellingWord": "cascabel",
+      "commonMispellings": ["cascabell", "cascabelle", "cascabil"]
+    },
+    {
+      "spellingWord": "aesthetic",
+      "commonMispellings": ["esthetic", "aestetic", "easthetic"]
+    },
+    {
+      "spellingWord": "relegated",
+      "commonMispellings": ["releggated", "relegeted", "religated"]
+    },
+    {
+      "spellingWord": "conspiratorial",
+      "commonMispellings": ["conspiritory", "conspiritoreal", "conspiraterial"]
+    },
+    {
+      "spellingWord": "infrastructure",
+      "commonMispellings": ["infastructure", "infrastructer", "infrastruture"]
+    },
+    {
+      "spellingWord": "alighted",
+      "commonMispellings": ["alited", "alighded", "alyted"]
+    },
+    {
+      "spellingWord": "San Joaquin",
+      "commonMispellings": ["san waukin", "san wahkin", "san joakin"]
+    },
+    {
+      "spellingWord": "puppeteer",
+      "commonMispellings": ["puppetier", "pupeteer", "puppiteer"]
+    },
+    {
+      "spellingWord": "Canterbury",
+      "commonMispellings": ["Cantebury", "Canterberry", "Canterbery"]
+    },
+    {
+      "spellingWord": "cabeza",
+      "commonMispellings": ["cabesa", "cabasa", "cabezza"]
+    },
+    {
+      "spellingWord": "suffocate",
+      "commonMispellings": ["sufocate", "suffocait", "suffucate"]
+    },
+    {
+      "spellingWord": "gullet",
+      "commonMispellings": ["gulet", "gullit", "gullete"]
+    },
+    {
+      "spellingWord": "barista",
+      "commonMispellings": ["barrista", "baresta", "baristah"]
+    },
+    {
+      "spellingWord": "imperator",
+      "commonMispellings": ["emperator", "imperatour", "imperater"]
+    },
+    {
+      "spellingWord": "endowed",
+      "commonMispellings": ["indowed", "endowd", "endoued"]
+    },
+    {
+      "spellingWord": "rancid",
+      "commonMispellings": ["ransid", "rancide", "rancit"]
+    },
+    {
+      "spellingWord": "Choctaws",
+      "commonMispellings": ["choctows", "chocktaws", "chocktows"]
+    },
+    {
+      "spellingWord": "physician",
+      "commonMispellings": ["phisician", "physition", "physisian"]
+    },
+    {
+      "spellingWord": "Olympics",
+      "commonMispellings": ["olimpics", "olimpix", "olimpicks"]
+    },
+    {
+      "spellingWord": "effectual",
+      "commonMispellings": ["efectual", "affectual", "effectule"]
+    }
+  ]
+}
