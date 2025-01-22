@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spelling-app-ed/static/css/main.b387f015.css",
+    "main.js": "/spelling-app-ed/static/js/main.e5bda8e1.js",
+    "index.html": "/spelling-app-ed/index.html",
+    "main.b387f015.css.map": "/spelling-app-ed/static/css/main.b387f015.css.map",
+    "main.e5bda8e1.js.map": "/spelling-app-ed/static/js/main.e5bda8e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b387f015.css",
+    "static/js/main.e5bda8e1.js"
+  ]
+}
